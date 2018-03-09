@@ -1,5 +1,5 @@
 <head>
-  <title>never.farley.</title>
+  <title>Shawn Farley For Dad Joke President!</title>
 
 <script>window.twttr = (function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0],
